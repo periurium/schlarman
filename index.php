@@ -16,8 +16,44 @@
   <link rel="stylesheet" href="assets/css/master.css" type="text/css">
   </head>
   <body>
-    <div id="landing">
-    
+    <div id="landing" align="center">
+      <div class="header_wrap">
+        <span class="header">Tristan Schlarman</span>
+        <br/><br/>
+        <span class="tag">FullStack Web Developer - Javascript | PHP | MySQL </span>
+        <br/>
+        <div class="wrap_one" align="center">
+          <ul>
+
+            <li>
+              <a href="mailto:tristan@schlarman.org">
+                <div class="btn">Email Me</div>
+              </a>
+            </li>
+
+            <li>
+              <a href="https://github.com/periurium">
+                <div class="btn">Github</div>
+              </a>
+            </li>
+
+            <li>
+              <a href="https://medium.com/@schlarman">
+                <div class="btn">Medium</div>
+              </a>
+            </li>
+
+            <li>
+              <a href="#portfolio">
+                <div class="btn">Portfolio</div>
+              </a>
+            </li>
+
+          </ul>
+          
+        <div>
+        
+      </div>
     </div> 
   </body>
 </html>
